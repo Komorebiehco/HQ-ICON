@@ -13,7 +13,7 @@ const isAndroid = /android/i.test(navigator.userAgent);
 const TRANSLATIONS = {
   zh: {
     title: "HQ ICON",
-    description: "从 App Store 获取高清应用图标",
+    description: "从App Store获取高清应用图标",
     searchPlaceholder: "搜索应用...",
     filterToggle: "筛选条件",
     queryType: "查询类型",
@@ -31,8 +31,8 @@ const TRANSLATIONS = {
     themeSystem: "系统",
     noResults: "无查询结果",
     proxyWarning: "如果开启了代理，请关闭后重试，反之亦然",
-    androidWarning: "检测到当前是 Android 设备，可使用",
-    androidAppLink: "App 版本",
+    androidWarning: "检测到当前是Android设备，可使用",
+    androidAppLink: "App版本",
   },
   en: {
     title: "HQ ICON",
